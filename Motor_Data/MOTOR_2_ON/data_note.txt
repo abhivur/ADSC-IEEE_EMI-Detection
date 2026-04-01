@@ -1,0 +1,2 @@
+channel 1 is distance measured at 2.5 inches away
+channel 2 is distance measured at 0 inches away
