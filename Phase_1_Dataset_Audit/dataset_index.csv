@@ -1,0 +1,784 @@
+file_path,filename,device_family,device_id,state,distance_label,probe_id,domain,channel_mode,channels,start_time,increment_sec,sample_count,is_duplicate,quality_flags
+Motor_Data/MOTOR_1_ON/time domain/NewFile1.csv,NewFile1.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile10.csv,NewFile10.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile11.csv,NewFile11.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile12.csv,NewFile12.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile13.csv,NewFile13.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile14.csv,NewFile14.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile15.csv,NewFile15.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile16.csv,NewFile16.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile17.csv,NewFile17.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile18.csv,NewFile18.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile19.csv,NewFile19.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile2.csv,NewFile2.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile20.csv,NewFile20.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile21.csv,NewFile21.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile22.csv,NewFile22.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile23.csv,NewFile23.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile24.csv,NewFile24.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile25.csv,NewFile25.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile26.csv,NewFile26.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile27.csv,NewFile27.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile28.csv,NewFile28.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile29.csv,NewFile29.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile3.csv,NewFile3.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile30.csv,NewFile30.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile31.csv,NewFile31.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile32.csv,NewFile32.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile33.csv,NewFile33.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile34.csv,NewFile34.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile35.csv,NewFile35.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile36.csv,NewFile36.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile37.csv,NewFile37.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile38.csv,NewFile38.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile39.csv,NewFile39.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile4.csv,NewFile4.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile40.csv,NewFile40.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile41.csv,NewFile41.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile42.csv,NewFile42.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile43.csv,NewFile43.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile44.csv,NewFile44.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile45.csv,NewFile45.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile46.csv,NewFile46.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile47.csv,NewFile47.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile48.csv,NewFile48.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile49.csv,NewFile49.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile5.csv,NewFile5.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile50.csv,NewFile50.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile51.csv,NewFile51.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile52.csv,NewFile52.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile53.csv,NewFile53.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile54.csv,NewFile54.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile55.csv,NewFile55.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile56.csv,NewFile56.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile57.csv,NewFile57.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile58.csv,NewFile58.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile59.csv,NewFile59.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile6.csv,NewFile6.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile60.csv,NewFile60.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile61.csv,NewFile61.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile62.csv,NewFile62.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile63.csv,NewFile63.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile64.csv,NewFile64.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile65.csv,NewFile65.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile66.csv,NewFile66.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile67.csv,NewFile67.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile68.csv,NewFile68.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile69.csv,NewFile69.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile7.csv,NewFile7.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile70.csv,NewFile70.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile71.csv,NewFile71.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile72.csv,NewFile72.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile73.csv,NewFile73.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile74.csv,NewFile74.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile75.csv,NewFile75.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile8.csv,NewFile8.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/time domain/NewFile9.csv,NewFile9.csv,motor,motor_1,on,unknown,default,time,single_ch2,CH2,-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-1.csv,FREAK-domain-1.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-10.csv,FREAK-domain-10.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-11.csv,FREAK-domain-11.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-12.csv,FREAK-domain-12.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-13.csv,FREAK-domain-13.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-14.csv,FREAK-domain-14.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-15.csv,FREAK-domain-15.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-16.csv,FREAK-domain-16.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-17.csv,FREAK-domain-17.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-18.csv,FREAK-domain-18.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-19.csv,FREAK-domain-19.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-2.csv,FREAK-domain-2.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-20.csv,FREAK-domain-20.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-21.csv,FREAK-domain-21.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-22.csv,FREAK-domain-22.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-23.csv,FREAK-domain-23.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-24.csv,FREAK-domain-24.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-25.csv,FREAK-domain-25.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-26.csv,FREAK-domain-26.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-27.csv,FREAK-domain-27.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-28.csv,FREAK-domain-28.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-29.csv,FREAK-domain-29.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-3.csv,FREAK-domain-3.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-30.csv,FREAK-domain-30.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-31.csv,FREAK-domain-31.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-32.csv,FREAK-domain-32.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-33.csv,FREAK-domain-33.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-34.csv,FREAK-domain-34.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-35.csv,FREAK-domain-35.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-36.csv,FREAK-domain-36.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-37.csv,FREAK-domain-37.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-38.csv,FREAK-domain-38.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-39.csv,FREAK-domain-39.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-4.csv,FREAK-domain-4.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-40.csv,FREAK-domain-40.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-41.csv,FREAK-domain-41.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-42.csv,FREAK-domain-42.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-43.csv,FREAK-domain-43.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-44.csv,FREAK-domain-44.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-45.csv,FREAK-domain-45.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-46.csv,FREAK-domain-46.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-47.csv,FREAK-domain-47.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-48.csv,FREAK-domain-48.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-49.csv,FREAK-domain-49.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-5.csv,FREAK-domain-5.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-50.csv,FREAK-domain-50.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-51.csv,FREAK-domain-51.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-52.csv,FREAK-domain-52.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-53.csv,FREAK-domain-53.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-54.csv,FREAK-domain-54.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-55.csv,FREAK-domain-55.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-56.csv,FREAK-domain-56.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-57.csv,FREAK-domain-57.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-58.csv,FREAK-domain-58.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-59.csv,FREAK-domain-59.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-6.csv,FREAK-domain-6.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-60.csv,FREAK-domain-60.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-61.csv,FREAK-domain-61.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-62.csv,FREAK-domain-62.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-63.csv,FREAK-domain-63.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-64.csv,FREAK-domain-64.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-65.csv,FREAK-domain-65.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-66.csv,FREAK-domain-66.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-67.csv,FREAK-domain-67.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-68.csv,FREAK-domain-68.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-69.csv,FREAK-domain-69.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-7.csv,FREAK-domain-7.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-70.csv,FREAK-domain-70.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-71.csv,FREAK-domain-71.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-72.csv,FREAK-domain-72.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-73.csv,FREAK-domain-73.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-74.csv,FREAK-domain-74.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-75.csv,FREAK-domain-75.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-8.csv,FREAK-domain-8.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_1_ON/freq domain/FREAK-domain-9.csv,FREAK-domain-9.csv,motor,motor_1,on,unknown,default,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile1.csv,NewFile1.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile10.csv,NewFile10.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile11.csv,NewFile11.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile12.csv,NewFile12.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile13.csv,NewFile13.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile14.csv,NewFile14.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile15.csv,NewFile15.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile16.csv,NewFile16.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile17.csv,NewFile17.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile18.csv,NewFile18.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile19.csv,NewFile19.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile2.csv,NewFile2.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile20.csv,NewFile20.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile21.csv,NewFile21.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile22.csv,NewFile22.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile23.csv,NewFile23.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile24.csv,NewFile24.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile25.csv,NewFile25.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile3.csv,NewFile3.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile4.csv,NewFile4.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile5.csv,NewFile5.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile6.csv,NewFile6.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile7.csv,NewFile7.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile8.csv,NewFile8.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/time domain (far ch1 close ch2)/NewFile9.csv,NewFile9.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-1.csv,FREAK-domain-1.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-10.csv,FREAK-domain-10.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-11.csv,FREAK-domain-11.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-12.csv,FREAK-domain-12.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-13.csv,FREAK-domain-13.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-14.csv,FREAK-domain-14.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-15.csv,FREAK-domain-15.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-16.csv,FREAK-domain-16.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-17.csv,FREAK-domain-17.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-18.csv,FREAK-domain-18.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-19.csv,FREAK-domain-19.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-2.csv,FREAK-domain-2.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-20.csv,FREAK-domain-20.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-21.csv,FREAK-domain-21.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-22.csv,FREAK-domain-22.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-23.csv,FREAK-domain-23.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-24.csv,FREAK-domain-24.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-25.csv,FREAK-domain-25.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-3.csv,FREAK-domain-3.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-4.csv,FREAK-domain-4.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-5.csv,FREAK-domain-5.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-6.csv,FREAK-domain-6.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-7.csv,FREAK-domain-7.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-8.csv,FREAK-domain-8.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe1/freq/FREAK-domain-9.csv,FREAK-domain-9.csv,motor,motor_2,on,ch1_far_ch2_close,probe_1,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-1.csv,FREAK-domain-1.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-10.csv,FREAK-domain-10.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-11.csv,FREAK-domain-11.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-12.csv,FREAK-domain-12.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-13.csv,FREAK-domain-13.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-14.csv,FREAK-domain-14.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-15.csv,FREAK-domain-15.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-16.csv,FREAK-domain-16.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-17.csv,FREAK-domain-17.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-18.csv,FREAK-domain-18.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-19.csv,FREAK-domain-19.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-2.csv,FREAK-domain-2.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-20.csv,FREAK-domain-20.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-21.csv,FREAK-domain-21.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-22.csv,FREAK-domain-22.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-23.csv,FREAK-domain-23.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-24.csv,FREAK-domain-24.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-25.csv,FREAK-domain-25.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-26.csv,FREAK-domain-26.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-27.csv,FREAK-domain-27.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-28.csv,FREAK-domain-28.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-29.csv,FREAK-domain-29.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-3.csv,FREAK-domain-3.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-30.csv,FREAK-domain-30.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-31.csv,FREAK-domain-31.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-32.csv,FREAK-domain-32.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-33.csv,FREAK-domain-33.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-34.csv,FREAK-domain-34.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-35.csv,FREAK-domain-35.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-4.csv,FREAK-domain-4.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-5.csv,FREAK-domain-5.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-6.csv,FREAK-domain-6.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-7.csv,FREAK-domain-7.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-8.csv,FREAK-domain-8.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/FREAK-domain-9.csv,FREAK-domain-9.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile1 (1).csv,NewFile1 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile10 (1).csv,NewFile10 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile11 (1).csv,NewFile11 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile12 (1).csv,NewFile12 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile13 (1).csv,NewFile13 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile14 (1).csv,NewFile14 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile15 (1).csv,NewFile15 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile16 (1).csv,NewFile16 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile17 (1).csv,NewFile17 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile18 (1).csv,NewFile18 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile19 (1).csv,NewFile19 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile2 (1).csv,NewFile2 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile20 (1).csv,NewFile20 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile21 (1).csv,NewFile21 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile22 (1).csv,NewFile22 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile23 (1).csv,NewFile23 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile24 (1).csv,NewFile24 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile25 (1).csv,NewFile25 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile26.csv,NewFile26.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile27.csv,NewFile27.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile28.csv,NewFile28.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile29.csv,NewFile29.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile3 (1).csv,NewFile3 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile30.csv,NewFile30.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile31.csv,NewFile31.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile32.csv,NewFile32.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile33.csv,NewFile33.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile34.csv,NewFile34.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile35.csv,NewFile35.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile4 (1).csv,NewFile4 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile5 (1).csv,NewFile5 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile6 (1).csv,NewFile6 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile7 (1).csv,NewFile7 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile8 (1).csv,NewFile8 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/time domain (distant ch1 close ch2)/NewFile9 (1).csv,NewFile9 (1).csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-1.csv,FREAK-domain-1.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-10.csv,FREAK-domain-10.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-11.csv,FREAK-domain-11.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-12.csv,FREAK-domain-12.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-13.csv,FREAK-domain-13.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-14.csv,FREAK-domain-14.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-15.csv,FREAK-domain-15.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-16.csv,FREAK-domain-16.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-17.csv,FREAK-domain-17.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-18.csv,FREAK-domain-18.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-19.csv,FREAK-domain-19.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-2.csv,FREAK-domain-2.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-20.csv,FREAK-domain-20.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-21.csv,FREAK-domain-21.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-22.csv,FREAK-domain-22.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-23.csv,FREAK-domain-23.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-24.csv,FREAK-domain-24.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-25.csv,FREAK-domain-25.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-26.csv,FREAK-domain-26.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-27.csv,FREAK-domain-27.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-28.csv,FREAK-domain-28.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-29.csv,FREAK-domain-29.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-3.csv,FREAK-domain-3.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-30.csv,FREAK-domain-30.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-31.csv,FREAK-domain-31.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-32.csv,FREAK-domain-32.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-33.csv,FREAK-domain-33.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-34.csv,FREAK-domain-34.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-35.csv,FREAK-domain-35.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-4.csv,FREAK-domain-4.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-5.csv,FREAK-domain-5.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-6.csv,FREAK-domain-6.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-7.csv,FREAK-domain-7.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-8.csv,FREAK-domain-8.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_2_ON/MOTOR2_ON_Probe2/freq domain/FREAK-domain-9.csv,FREAK-domain-9.csv,motor,motor_2,on,ch1_distant_ch2_close,probe_2,freq,unknown,,,,600,False,no_channel_column|missing_timing_metadata
+Motor_Data/MOTOR_3_ON/time domain/NewFile1(1).csv,NewFile1(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile1.csv,NewFile1.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile10(1).csv,NewFile10(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile10.csv,NewFile10.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile11(1).csv,NewFile11(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile11.csv,NewFile11.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile12(1).csv,NewFile12(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile12.csv,NewFile12.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile13(1).csv,NewFile13(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile13.csv,NewFile13.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile14(1).csv,NewFile14(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile14.csv,NewFile14.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile15(1).csv,NewFile15(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile15.csv,NewFile15.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile16(1).csv,NewFile16(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile16.csv,NewFile16.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile17(1).csv,NewFile17(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile17.csv,NewFile17.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile18(1).csv,NewFile18(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile18.csv,NewFile18.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile19(1).csv,NewFile19(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile19.csv,NewFile19.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile2(1).csv,NewFile2(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile2.csv,NewFile2.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile20(1).csv,NewFile20(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile20.csv,NewFile20.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile21(1).csv,NewFile21(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile21.csv,NewFile21.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile22(1).csv,NewFile22(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile22.csv,NewFile22.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile23(1).csv,NewFile23(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile23.csv,NewFile23.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile24(1).csv,NewFile24(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile24.csv,NewFile24.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile25(1).csv,NewFile25(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile25.csv,NewFile25.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile26(1).csv,NewFile26(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile26.csv,NewFile26.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile27(1).csv,NewFile27(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile27.csv,NewFile27.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile28(1).csv,NewFile28(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile28.csv,NewFile28.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile29(1).csv,NewFile29(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile29.csv,NewFile29.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile3(1).csv,NewFile3(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile3.csv,NewFile3.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile30(1).csv,NewFile30(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile30.csv,NewFile30.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile31(1).csv,NewFile31(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile31.csv,NewFile31.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile32(1).csv,NewFile32(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile32.csv,NewFile32.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile33(1).csv,NewFile33(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile33.csv,NewFile33.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile34(1).csv,NewFile34(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile34.csv,NewFile34.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile35(1).csv,NewFile35(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile35.csv,NewFile35.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile36(1).csv,NewFile36(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile36.csv,NewFile36.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile37(1).csv,NewFile37(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile37.csv,NewFile37.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile38(1).csv,NewFile38(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile38.csv,NewFile38.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile39(1).csv,NewFile39(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile39.csv,NewFile39.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile4(1).csv,NewFile4(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile4.csv,NewFile4.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile40(1).csv,NewFile40(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile40.csv,NewFile40.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile41(1).csv,NewFile41(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile41.csv,NewFile41.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile42(1).csv,NewFile42(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile42.csv,NewFile42.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile43(1).csv,NewFile43(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile43.csv,NewFile43.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile44(1).csv,NewFile44(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile44.csv,NewFile44.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile45(1).csv,NewFile45(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile45.csv,NewFile45.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile46(1).csv,NewFile46(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile46.csv,NewFile46.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile47(1).csv,NewFile47(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile47.csv,NewFile47.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile48(1).csv,NewFile48(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile48.csv,NewFile48.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile49(1).csv,NewFile49(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile49.csv,NewFile49.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile5(1).csv,NewFile5(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile5.csv,NewFile5.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile50(1).csv,NewFile50(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile50.csv,NewFile50.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile51(1).csv,NewFile51(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile51.csv,NewFile51.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile52(1).csv,NewFile52(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile52.csv,NewFile52.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile53(1).csv,NewFile53(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile53.csv,NewFile53.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile54(1).csv,NewFile54(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile54.csv,NewFile54.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile55(1).csv,NewFile55(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile55.csv,NewFile55.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile56(1).csv,NewFile56(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile56.csv,NewFile56.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile57(1).csv,NewFile57(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile57.csv,NewFile57.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile58(1).csv,NewFile58(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile58.csv,NewFile58.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile59(1).csv,NewFile59(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile59.csv,NewFile59.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile6(1).csv,NewFile6(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile6.csv,NewFile6.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile60(1).csv,NewFile60(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile60.csv,NewFile60.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile61(1).csv,NewFile61(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile61.csv,NewFile61.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile62(1).csv,NewFile62(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile62.csv,NewFile62.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile63(1).csv,NewFile63(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile63.csv,NewFile63.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile64(1).csv,NewFile64(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile64.csv,NewFile64.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile65(1).csv,NewFile65(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile65.csv,NewFile65.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile66(1).csv,NewFile66(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile66.csv,NewFile66.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile67(1).csv,NewFile67(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile67.csv,NewFile67.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile68(1).csv,NewFile68(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile68.csv,NewFile68.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile69(1).csv,NewFile69(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile69.csv,NewFile69.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile7(1).csv,NewFile7(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile7.csv,NewFile7.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile70(1).csv,NewFile70(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile70.csv,NewFile70.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile71(1).csv,NewFile71(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile71.csv,NewFile71.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile72(1).csv,NewFile72(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile72.csv,NewFile72.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile73(1).csv,NewFile73(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile73.csv,NewFile73.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile74(1).csv,NewFile74(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile74.csv,NewFile74.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile75(1).csv,NewFile75(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile75.csv,NewFile75.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile76(1).csv,NewFile76(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile76.csv,NewFile76.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile8(1).csv,NewFile8(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile8.csv,NewFile8.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/time domain/NewFile9(1).csv,NewFile9(1).csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,True,duplicate
+Motor_Data/MOTOR_3_ON/time domain/NewFile9.csv,NewFile9.csv,motor,motor_3,on,ch1_distant_ch2_close,default,time,dual,"CH1,CH2",-0.03,5e-05,1200,False,ok
+Motor_Data/MOTOR_3_ON/freq doman/NewFile10_fft.csv,NewFile10_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile11_fft.csv,NewFile11_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile12_fft.csv,NewFile12_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile13_fft.csv,NewFile13_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile14_fft.csv,NewFile14_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile15_fft.csv,NewFile15_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile16_fft.csv,NewFile16_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile17_fft.csv,NewFile17_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile18_fft.csv,NewFile18_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile19_fft.csv,NewFile19_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile1_fft.csv,NewFile1_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile20_fft.csv,NewFile20_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile21_fft.csv,NewFile21_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile22_fft.csv,NewFile22_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile23_fft.csv,NewFile23_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile24_fft.csv,NewFile24_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile25_fft.csv,NewFile25_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile26_fft.csv,NewFile26_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile27_fft.csv,NewFile27_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile28_fft.csv,NewFile28_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile29_fft.csv,NewFile29_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile2_fft.csv,NewFile2_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile30_fft.csv,NewFile30_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile31_fft.csv,NewFile31_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile32_fft.csv,NewFile32_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile33_fft.csv,NewFile33_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile34_fft.csv,NewFile34_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile35_fft.csv,NewFile35_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile36_fft.csv,NewFile36_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile37_fft.csv,NewFile37_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile38_fft.csv,NewFile38_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile39_fft.csv,NewFile39_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile3_fft.csv,NewFile3_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile40_fft.csv,NewFile40_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile41_fft.csv,NewFile41_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile42_fft.csv,NewFile42_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile43_fft.csv,NewFile43_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile44_fft.csv,NewFile44_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile45_fft.csv,NewFile45_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile46_fft.csv,NewFile46_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile47_fft.csv,NewFile47_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile48_fft.csv,NewFile48_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile49_fft.csv,NewFile49_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile4_fft.csv,NewFile4_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile50_fft.csv,NewFile50_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile51_fft.csv,NewFile51_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile52_fft.csv,NewFile52_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile53_fft.csv,NewFile53_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile54_fft.csv,NewFile54_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile55_fft.csv,NewFile55_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile56_fft.csv,NewFile56_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile57_fft.csv,NewFile57_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile58_fft.csv,NewFile58_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile59_fft.csv,NewFile59_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile5_fft.csv,NewFile5_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile60_fft.csv,NewFile60_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile61_fft.csv,NewFile61_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile62_fft.csv,NewFile62_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile63_fft.csv,NewFile63_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile64_fft.csv,NewFile64_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile65_fft.csv,NewFile65_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile66_fft.csv,NewFile66_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile67_fft.csv,NewFile67_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile68_fft.csv,NewFile68_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile69_fft.csv,NewFile69_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile6_fft.csv,NewFile6_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile70_fft.csv,NewFile70_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile71_fft.csv,NewFile71_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile72_fft.csv,NewFile72_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile73_fft.csv,NewFile73_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile74_fft.csv,NewFile74_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile75_fft.csv,NewFile75_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile76_fft.csv,NewFile76_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile7_fft.csv,NewFile7_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile8_fft.csv,NewFile8_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Motor_Data/MOTOR_3_ON/freq doman/NewFile9_fft.csv,NewFile9_fft.csv,motor,motor_3,on,ch1_distant_ch2_close,default,freq,dual,"CH1_Magnitude,CH2_Magnitude",,,600,False,missing_timing_metadata
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile1.csv,NewFile1.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile10.csv,NewFile10.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile11.csv,NewFile11.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile12.csv,NewFile12.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile13.csv,NewFile13.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile14.csv,NewFile14.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile15.csv,NewFile15.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile16.csv,NewFile16.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile17.csv,NewFile17.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile18.csv,NewFile18.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile19.csv,NewFile19.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile2.csv,NewFile2.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile20.csv,NewFile20.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile21.csv,NewFile21.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile22.csv,NewFile22.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile23.csv,NewFile23.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile24.csv,NewFile24.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile25.csv,NewFile25.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile26.csv,NewFile26.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile27.csv,NewFile27.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile28.csv,NewFile28.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile29.csv,NewFile29.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile3.csv,NewFile3.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile30.csv,NewFile30.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile31.csv,NewFile31.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile32.csv,NewFile32.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile33.csv,NewFile33.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile34.csv,NewFile34.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile35.csv,NewFile35.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile36.csv,NewFile36.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile37.csv,NewFile37.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile38.csv,NewFile38.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile39.csv,NewFile39.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile4.csv,NewFile4.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile40.csv,NewFile40.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile41.csv,NewFile41.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile42.csv,NewFile42.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile43.csv,NewFile43.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile44.csv,NewFile44.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile45.csv,NewFile45.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile46.csv,NewFile46.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile47.csv,NewFile47.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile48.csv,NewFile48.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile49.csv,NewFile49.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile5.csv,NewFile5.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile50.csv,NewFile50.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile6.csv,NewFile6.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile7.csv,NewFile7.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile8.csv,NewFile8.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_OFF/time domain/NewFile9.csv,NewFile9.csv,charger,charger_1,off,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile1(1).csv,NewFile1(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile1.csv,NewFile1.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.06,5e-05,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile10(1).csv,NewFile10(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile10.csv,NewFile10.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile11(1).csv,NewFile11(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile11.csv,NewFile11.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile12(1).csv,NewFile12(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile12.csv,NewFile12.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile13(1).csv,NewFile13(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile13.csv,NewFile13.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile14(1).csv,NewFile14(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile14.csv,NewFile14.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile15(1).csv,NewFile15(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile15.csv,NewFile15.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile16.csv,NewFile16.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile17.csv,NewFile17.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile18.csv,NewFile18.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile19.csv,NewFile19.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile2(1).csv,NewFile2(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile2.csv,NewFile2.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile20.csv,NewFile20.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile21.csv,NewFile21.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile22.csv,NewFile22.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile23.csv,NewFile23.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile24.csv,NewFile24.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile25.csv,NewFile25.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile26.csv,NewFile26.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile27.csv,NewFile27.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile28.csv,NewFile28.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile29.csv,NewFile29.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile3(1).csv,NewFile3(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile3.csv,NewFile3.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile30.csv,NewFile30.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile31.csv,NewFile31.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile32.csv,NewFile32.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile33.csv,NewFile33.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile34.csv,NewFile34.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile35.csv,NewFile35.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile4(1).csv,NewFile4(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile4.csv,NewFile4.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile5(1).csv,NewFile5(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile5.csv,NewFile5.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile6(1).csv,NewFile6(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile6.csv,NewFile6.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile7(1).csv,NewFile7(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile7.csv,NewFile7.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile8(1).csv,NewFile8(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile8.csv,NewFile8.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile9(1).csv,NewFile9(1).csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,True,duplicate
+Laptop_1/LAPTOP_CHRGR_1_ON_CLOSE/time domain/NewFile9.csv,NewFile9.csv,charger,charger_1,on,close,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile1.csv,NewFile1.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile10.csv,NewFile10.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile11.csv,NewFile11.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile12.csv,NewFile12.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile13.csv,NewFile13.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile14.csv,NewFile14.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile15.csv,NewFile15.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile16.csv,NewFile16.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile17.csv,NewFile17.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile18.csv,NewFile18.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile19.csv,NewFile19.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile2.csv,NewFile2.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile20.csv,NewFile20.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile21.csv,NewFile21.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile22.csv,NewFile22.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile23.csv,NewFile23.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile24.csv,NewFile24.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile25.csv,NewFile25.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile26.csv,NewFile26.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile27.csv,NewFile27.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile28.csv,NewFile28.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile29.csv,NewFile29.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile3.csv,NewFile3.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile30.csv,NewFile30.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile31.csv,NewFile31.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile32.csv,NewFile32.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile33.csv,NewFile33.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile34.csv,NewFile34.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile35.csv,NewFile35.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile36.csv,NewFile36.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile37.csv,NewFile37.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile38.csv,NewFile38.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile39.csv,NewFile39.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile4.csv,NewFile4.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile40.csv,NewFile40.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile41.csv,NewFile41.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile42.csv,NewFile42.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile43.csv,NewFile43.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile44.csv,NewFile44.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile45.csv,NewFile45.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile46.csv,NewFile46.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile47.csv,NewFile47.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile48.csv,NewFile48.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile49.csv,NewFile49.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile5.csv,NewFile5.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile50.csv,NewFile50.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile6.csv,NewFile6.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile7.csv,NewFile7.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile8.csv,NewFile8.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_OFF/time domain/NewFile9.csv,NewFile9.csv,charger,charger_2,off,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile1.csv,NewFile1.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile10.csv,NewFile10.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile11.csv,NewFile11.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile12.csv,NewFile12.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile13.csv,NewFile13.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile14.csv,NewFile14.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile15.csv,NewFile15.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile16.csv,NewFile16.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile17.csv,NewFile17.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile18.csv,NewFile18.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile19.csv,NewFile19.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile2.csv,NewFile2.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile20.csv,NewFile20.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile21.csv,NewFile21.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile22.csv,NewFile22.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile23.csv,NewFile23.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile24.csv,NewFile24.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile25.csv,NewFile25.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile26.csv,NewFile26.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile27.csv,NewFile27.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile28.csv,NewFile28.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile29.csv,NewFile29.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile3.csv,NewFile3.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile30.csv,NewFile30.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile31.csv,NewFile31.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile32.csv,NewFile32.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile33.csv,NewFile33.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile34.csv,NewFile34.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile35.csv,NewFile35.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile36.csv,NewFile36.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile37.csv,NewFile37.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile38.csv,NewFile38.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile39.csv,NewFile39.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile4.csv,NewFile4.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile40.csv,NewFile40.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile41.csv,NewFile41.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile42.csv,NewFile42.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile43.csv,NewFile43.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile44.csv,NewFile44.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile45.csv,NewFile45.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile46.csv,NewFile46.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile47.csv,NewFile47.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile48.csv,NewFile48.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile49.csv,NewFile49.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile5.csv,NewFile5.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile50.csv,NewFile50.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile6.csv,NewFile6.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile7.csv,NewFile7.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile8.csv,NewFile8.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/time domain/NewFile9.csv,NewFile9.csv,charger,charger_2,on,distant,default,time,single_ch1,CH1,-0.15,0.0002,1200,False,ok
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile10_CH1_fft.csv,NewFile10_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile11_CH1_fft.csv,NewFile11_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile12_CH1_fft.csv,NewFile12_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile13_CH1_fft.csv,NewFile13_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile14_CH1_fft.csv,NewFile14_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile15_CH1_fft.csv,NewFile15_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile16_CH1_fft.csv,NewFile16_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile17_CH1_fft.csv,NewFile17_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile18_CH1_fft.csv,NewFile18_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile19_CH1_fft.csv,NewFile19_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile1_CH1_fft.csv,NewFile1_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile20_CH1_fft.csv,NewFile20_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile21_CH1_fft.csv,NewFile21_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile22_CH1_fft.csv,NewFile22_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile23_CH1_fft.csv,NewFile23_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile24_CH1_fft.csv,NewFile24_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile25_CH1_fft.csv,NewFile25_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile26_CH1_fft.csv,NewFile26_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile27_CH1_fft.csv,NewFile27_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile28_CH1_fft.csv,NewFile28_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile29_CH1_fft.csv,NewFile29_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile2_CH1_fft.csv,NewFile2_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile30_CH1_fft.csv,NewFile30_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile31_CH1_fft.csv,NewFile31_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile32_CH1_fft.csv,NewFile32_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile33_CH1_fft.csv,NewFile33_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile34_CH1_fft.csv,NewFile34_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile35_CH1_fft.csv,NewFile35_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile36_CH1_fft.csv,NewFile36_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile37_CH1_fft.csv,NewFile37_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile38_CH1_fft.csv,NewFile38_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile39_CH1_fft.csv,NewFile39_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile3_CH1_fft.csv,NewFile3_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile40_CH1_fft.csv,NewFile40_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile41_CH1_fft.csv,NewFile41_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile42_CH1_fft.csv,NewFile42_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile43_CH1_fft.csv,NewFile43_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile44_CH1_fft.csv,NewFile44_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile45_CH1_fft.csv,NewFile45_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile46_CH1_fft.csv,NewFile46_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile47_CH1_fft.csv,NewFile47_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile48_CH1_fft.csv,NewFile48_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile49_CH1_fft.csv,NewFile49_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile4_CH1_fft.csv,NewFile4_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile50_CH1_fft.csv,NewFile50_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile5_CH1_fft.csv,NewFile5_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile6_CH1_fft.csv,NewFile6_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile7_CH1_fft.csv,NewFile7_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile8_CH1_fft.csv,NewFile8_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
+Laptop_2/LAPTOP_CHRGR_2_ON_DISTANT/freq domain/NewFile9_CH1_fft.csv,NewFile9_CH1_fft.csv,charger,charger_2,on,distant,default,freq,single_ch1_magnitude,CH1_Magnitude,,,0,False,missing_timing_metadata|no_samples
