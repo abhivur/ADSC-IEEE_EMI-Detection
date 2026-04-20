@@ -31,6 +31,8 @@ A Signal is a plain dict:
 A ValidationReport is a dict with load counts and per-file warning records.
 """
 
+from __future__ import annotations
+
 import os
 import glob
 import warnings

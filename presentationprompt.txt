@@ -1,0 +1,128 @@
+You are analyzing a completed EMI Detection project codebase. Your goal is to extract ALL relevant information needed to build a research presentation poster.
+
+The poster sections are:
+- Introduction
+- Objective
+- Methods
+- Results
+- Discussion
+- Conclusion
+
+You must pull information ONLY from the code, results, outputs, and any documentation available in this project folder.
+
+Be extremely clear, structured, and concise. Do NOT be vague. Use bullet points where appropriate.
+
+-------------------------------------
+
+1. INTRODUCTION
+Provide:
+- What problem this project is solving (in 2–3 sentences)
+- What EMI is in simple terms
+- Why EMI detection/classification matters (applications)
+- Any key technical terms that should be defined (1–2 lines each)
+
+-------------------------------------
+
+2. OBJECTIVE
+Provide:
+- A clear, single problem statement
+- What the system is trying to predict (e.g., device type, state, distance)
+- What success looks like for this project
+
+-------------------------------------
+
+3. METHODS (VERY IMPORTANT — BE DETAILED)
+
+Break this into sub-sections:
+
+### Data
+- What datasets were used (motors, chargers, conditions)
+- How data is structured (time-domain, frequency-domain, channels)
+- Number of samples if available
+
+### Data Processing
+- How raw CSV files were parsed
+- How time axis was reconstructed
+- How inconsistencies were handled (sampling rate, duplicates, mixed folders)
+
+### Signal Processing
+- What filtering/normalization techniques were used
+- How signals were made comparable
+
+### Feature Engineering
+- What features were extracted (time-domain + frequency-domain)
+- Whether FFT was recomputed and how
+- Any important transformations
+
+### Modeling
+- What models were used (Logistic Regression, Random Forest, etc.)
+- What prediction tasks were attempted
+- How training/testing was done
+
+-------------------------------------
+
+4. RESULTS (CRITICAL — MUST INCLUDE ACTUAL OUTPUTS)
+
+Extract:
+- Model performance metrics:
+  - accuracy
+  - precision/recall (if available)
+- Confusion matrix values or summary
+- Key findings:
+  - what worked best
+  - what signals were most distinguishable
+- Any plots available:
+  - signal graphs
+  - FFT plots
+  - feature distributions
+
+IMPORTANT:
+- Identify at least 2–3 visuals/plots that should go on the poster
+- For each visual, explain:
+  - what it shows
+  - why it matters
+
+-------------------------------------
+
+5. DISCUSSION
+
+Provide:
+- Interpretation of results (what do the results actually mean?)
+- Why the model performed the way it did
+- Limitations of the dataset:
+  - small sample size
+  - inconsistent labels
+  - missing data (e.g., motors only ON)
+- Any challenges encountered during the project
+
+-------------------------------------
+
+6. CONCLUSION
+
+Provide:
+- Final takeaway (2–3 sentences)
+- What was successfully built
+- What the system proves
+- Potential future improvements:
+  - more data
+  - better labeling
+  - improved models
+
+-------------------------------------
+
+7. EXTRA (FOR POSTER VISUALS)
+
+List:
+- Best 3–5 figures/plots to include on the poster
+- Best 2–3 key bullet points for “Key Findings”
+- Any short phrases that can be used as strong headlines
+
+-------------------------------------
+
+FORMAT REQUIREMENTS:
+- Use clear section headers
+- Use bullet points
+- No long paragraphs (poster-friendly content)
+- Keep explanations concise but meaningful
+
+Your output should be directly usable to fill a research poster.
